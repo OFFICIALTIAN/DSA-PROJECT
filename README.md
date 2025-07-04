@@ -46,4 +46,6 @@ As a Junior Data Analyst at *DSA Capstone*, I was tasked with examining Amazon p
 13. Categories with the highest product discounts.
 14. Top 5 products combining high rating and review volume.
 
+ ## Project Work
+[Amazon case study Worked .xlsx](https://github.com/user-attachments/files/21059165/Amazon.case.study.Worked.xlsx)
 
